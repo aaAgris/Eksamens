@@ -7,5 +7,5 @@ Lietotāja zināšanu pārbaude izmantojot testu saistītu ar C++ jautājumiem.
 - [x] Izdomāti 10 jautājumi par kuriem taisīt testu
 - [x] Lietotājam iespēja atbildēt uz jautājumiem līdz tie ir pareizi
 - [ ] Saskaita cik jautājumi atbildēti pareizi ar pirmo reizi
-- [ ] Izveidoti testpiemēri
-- [ ] Aizpildīts testēšanas žurnāls
+- [x] Izveidoti testpiemēri
+- [x] Aizpildīts testēšanas žurnāls
