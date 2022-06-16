@@ -16,13 +16,6 @@ int main(){
     int pareiza = 0;
     
 
-        
-
-
-
-
-
-
 
     string jautajumi[] = { "1.Kuri no siem mainigo datu tipiem nav skaitliski?\n a)string \n b)int \nc)char\nd)double",
                             "2.Cik liels ir wChar izmers bitos \n a)2 \n b)4 \nc)6\nd)8",
@@ -40,7 +33,7 @@ int main(){
 
     string atbildes[] = { "a,c","a,b","a,b","b,d","a,d","a,b,c","b,d","a,c","a,b","a,b,c"};
 
-    cout << "Tests par Mainigajiem, to datu tipiem, pamatdarbibam, darbam ar tiem programmesanas valoda C++\nJautajuma ir 4 atbildes un 2 vai 3 pareizi varianti\nVeiksmi!\n\n";
+    cout << "Tests par Mainigajiem, to datu tipiem, pamatdarbibam, darbam ar tiem programmesanas valoda C++\nJautajuma ir 4 atbildes un 2 vai 3 pareizi varianti\nVeiksmi!\nUz jautajumiem atbildi rakstot sadi(a,b) vai ari sadi(a,b,c)\n";
 
 
 
@@ -53,7 +46,7 @@ int main(){
             pareiza++;
 
         } while (ieraksts != atbildes[i]);
-    };
-
+   };
+    cout << "\nApsveicu, tests veiksmigi nosledzies!";
 
 }

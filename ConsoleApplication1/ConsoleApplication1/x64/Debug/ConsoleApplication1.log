@@ -1,2 +1,4 @@
 ﻿  ConsoleApplication1.cpp
+C:\Users\max\Documents\eksaamens\Eksamens\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,13): warning C4566: character represented by universal-character-name '\u0101' cannot be represented in the current code page (1252)
+C:\Users\max\Documents\eksaamens\Eksamens\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,13): warning C4566: character represented by universal-character-name '\u012B' cannot be represented in the current code page (1252)
   ConsoleApplication1.vcxproj -> C:\Users\max\Documents\eksaamens\Eksamens\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
